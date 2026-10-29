@@ -1,0 +1,8 @@
+﻿[
+  { "id": "all", "name": "Toàn tỉnh" },
+  { "id": "tp_hung_yen", "name": "TP Hung Yên" },
+  { "id": "khoai_chau", "name": "Khoái Châu" },
+  { "id": "van_giang", "name": "Văn Giang" },
+  { "id": "an_thi", "name": "Ân Thi" }
+]
+

@@ -1,0 +1,23 @@
+﻿[
+    {
+        "id": "b1",
+        "title": "Mùa lễ hội Chử Đồng Tử - Tiên Dung",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "linkType": "news",
+        "linkId": "n2"
+    },
+    {
+        "id": "b2",
+        "title": "Ẩm thực phố Hiến và đặc sản Hưng Yên",
+        "imageUrl": "https://images.unsplash.com/photo-1473093226795-af9932fe5856",
+        "linkType": "place",
+        "linkId": "p1"
+    },
+    {
+        "id": "b3",
+        "title": "Khám phá Đền Dạ Trạch",
+        "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+        "linkType": "place",
+        "linkId": "p3"
+    }
+]

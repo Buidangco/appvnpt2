@@ -1,0 +1,51 @@
+﻿[
+  {
+    "id": "ct1",
+    "name": "Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh Hưng Yên",
+    "digitalExport": "Giấy phép số:35/GP-TTĐT, do Sở Thông tin và Truyền thông tỉnh Hưng Yên cấp ngày 08/11/2022",
+    "address": "Số 313 Nguyễn Văn Linh, phường Phố Hiến, tỉnh Hưng Yên.",
+    "phone": "02213552517",
+    "logoUrl": "https://images.unsplash.com/photo-1560179707-f14e90ef3623",
+    "website": "https://hungyentourism.vn",
+    "email": "contact@hungyentourism.vn",
+    "latitude": 20.646,
+    "longitude": 106.053
+  },
+  {
+    "id": "ct2",
+    "name": "Công ty Lữ hành Phố Hiến Travel",
+    "digitalExport": "",
+    "address": "15 Điện Biên, TP Hưng Yên",
+    "phone": "0221368123",
+    "logoUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+    "website": "https://phohientravel.vn",
+    "email": "sales@phohientravel.vn",
+    "latitude": 20.648,
+    "longitude": 106.050
+  },
+  {
+    "id": "ct3",
+    "name": "Hung Yên Discovery",
+    "digitalExport": "",
+    "address": "Văn Giang, Hưng Yên",
+    "phone": "0221377111",
+    "logoUrl": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a",
+    "website": "https://hungyendiscovery.vn",
+    "email": "hello@hungyendiscovery.vn",
+    "latitude": 20.944,
+    "longitude": 105.930
+  },
+  {
+    "id": "ct4",
+    "name": "Khoái Châu Riverside Tours",
+    "digitalExport": "",
+    "address": "Khoái Châu, Hưng Yên",
+    "phone": "0221399888",
+    "logoUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+    "website": "",
+    "email": "",
+    "latitude": 20.832,
+    "longitude": 105.959
+  }
+]
+

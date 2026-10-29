@@ -1,0 +1,46 @@
+name: hungyen_travel
+description: "Ứng dụng du lịch địa phương Hưng Yên bằng Flutter"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.6.1
+  go_router: ^16.3.0
+  dio: ^5.9.0
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.11.0
+  cached_network_image: ^3.4.1
+  shared_preferences: ^2.5.3
+  url_launcher: ^6.3.2
+  share_plus: ^12.0.1
+  flutter_html: ^3.0.0
+  shimmer: ^3.0.0
+  carousel_slider: ^5.1.1
+  intl: ^0.20.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  youtube_player_iframe: ^6.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.6.0
+  freezed: ^3.2.3
+  json_serializable: ^6.11.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/mock/
+    - img/
+
+

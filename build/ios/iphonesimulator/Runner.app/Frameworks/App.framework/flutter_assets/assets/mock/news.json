@@ -1,0 +1,54 @@
+﻿[
+  {
+    "id": "n1",
+    "title": "Top điểm đến tâm linh nổi bật tại Hưng Yên dịp hè 2026",
+    "summary": "Gợi ý các điểm đến thu hút đông khách cho hành trình 2 ngày 1 đêm.",
+    "content": "Hưng Yên đang đẩy mạnh phát triển sản phẩm du lịch văn hóa - tâm linh kết hợp trải nghiệm ẩm thực và sinh thái địa phương.",
+    "contentType": "text",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1467269204594-9661b134dd2b"
+    ],
+    "categoryName": "Tin tức",
+    "publishedAt": "2026-04-20T09:00:00Z"
+  },
+  {
+    "id": "n2",
+    "title": "Lễ hội Chử Đồng Tử - Tiên Dung khai mạc với nhiều hoạt động đặc sắc",
+    "summary": "Lễ hội năm nay có trình diễn dân gian, tour trải nghiệm và không gian OCOP.",
+    "content": "<p>Lễ hội Chử Đồng Tử - Tiên Dung là sự kiện văn hóa lớn của tỉnh Hưng Yên.</p><p>Du khách có thể tham gia hành trình tham quan cụm di tích và trải nghiệm ẩm thực địa phương.</p>",
+    "contentType": "html",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1528605248644-14dd04022da1",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1528605248644-14dd04022da1"
+    ],
+    "categoryName": "Lễ hội",
+    "publishedAt": "2026-04-16T08:00:00Z"
+  },
+  {
+    "id": "n3",
+    "title": "Hưng Yên ra mắt tuyến xe buýt kết nối các điểm du lịch cuối tuần",
+    "summary": "Tuyến mới giúp du khách di chuyển thuận tiện giữa trung tâm và các khu du lịch nổi bật.",
+    "content": "Tuyến buýt du lịch sẽ tăng cường vào cuối tuần, kết nối TP Hưng Yên với Khoái Châu và Văn Giang.",
+    "contentType": "text",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7"
+    ],
+    "categoryName": "Sự kiện",
+    "publishedAt": "2026-04-11T08:00:00Z"
+  },
+  {
+    "id": "n4",
+    "title": "Tuần lễ ẩm thực Phố Hiến thu hút hàng nghìn lượt khách",
+    "summary": "Nhiều gian hàng đặc sản địa phương tham gia trong tuần lễ ẩm thực.",
+    "content": "Sự kiện giúp quảng bá sản phẩm du lịch và ẩm thực đặc trưng của tỉnh Hưng Yên.",
+    "contentType": "text",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0"
+    ],
+    "categoryName": "Tin tức",
+    "publishedAt": "2026-04-07T08:00:00Z"
+  }
+]

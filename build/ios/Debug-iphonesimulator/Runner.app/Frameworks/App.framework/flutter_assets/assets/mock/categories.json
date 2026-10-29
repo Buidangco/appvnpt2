@@ -1,0 +1,7 @@
+﻿[
+  { "id": "c1", "name": "Ði dâu", "type": "destination", "iconName": "place" },
+  { "id": "c2", "name": "An gì", "type": "food", "iconName": "restaurant" },
+  { "id": "c3", "name": "? dâu", "type": "stay", "iconName": "hotel" },
+  { "id": "c4", "name": "Di chuy?n", "type": "transport", "iconName": "directions_bus" }
+]
+

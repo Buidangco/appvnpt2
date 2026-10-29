@@ -1,0 +1,97 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "flutterframework",
+          "kind" : "fileSystem",
+          "location" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework",
+          "name" : "FlutterFramework"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework"
+        },
+        "subpath" : "flutterframework"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "share_plus-12.0.2",
+          "kind" : "fileSystem",
+          "location" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/share_plus-12.0.2",
+          "name" : "share_plus"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/share_plus-12.0.2"
+        },
+        "subpath" : "share_plus-12.0.2"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "shared_preferences_foundation-2.5.6",
+          "kind" : "fileSystem",
+          "location" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/shared_preferences_foundation-2.5.6",
+          "name" : "shared_preferences_foundation"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/shared_preferences_foundation-2.5.6"
+        },
+        "subpath" : "shared_preferences_foundation-2.5.6"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "sqflite_darwin-2.4.2",
+          "kind" : "fileSystem",
+          "location" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/sqflite_darwin-2.4.2",
+          "name" : "sqflite_darwin"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/sqflite_darwin-2.4.2"
+        },
+        "subpath" : "sqflite_darwin-2.4.2"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "url_launcher_ios-6.4.1",
+          "kind" : "fileSystem",
+          "location" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/url_launcher_ios-6.4.1",
+          "name" : "url_launcher_ios"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/url_launcher_ios-6.4.1"
+        },
+        "subpath" : "url_launcher_ios-6.4.1"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "webview_flutter_wkwebview-3.26.0",
+          "kind" : "fileSystem",
+          "location" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/webview_flutter_wkwebview-3.26.0",
+          "name" : "webview_flutter_wkwebview"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/ngotienson/Documents/ft/DuLichMobile-main/ios/Flutter/ephemeral/Packages/.packages/webview_flutter_wkwebview-3.26.0"
+        },
+        "subpath" : "webview_flutter_wkwebview-3.26.0"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

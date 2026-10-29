@@ -1,0 +1,130 @@
+﻿[
+    {
+        "id": "p1",
+        "name": "Nhà hàng 286",
+        "type": "food",
+        "categoryName": "Ăn gì",
+        "shortDescription": "Địa chỉ ẩm thực nổi tiếng tại trung tâm thành phố.",
+        "description": "Nhà hàng 286 phục vụ đa dạng món đặc sản vùng đồng bằng Bắc Bộ, không gian rộng và phù hợp cho gia đình, đoàn khách du lịch.",
+        "address": "286 Điện Biên, TP Hưng Yên",
+        "phone": "0221386286",
+        "openingHours": "08:00 - 22:00",
+        "latitude": 20.6485,
+        "longitude": 106.0511,
+        "thumbnailUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de",
+        "imageUrls": [
+            "https://images.unsplash.com/photo-1559339352-11d035aa65de",
+            "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4"
+        ],
+        "districtName": "TP Hưng Yên",
+        "isFeatured": true,
+        "updatedAt": "2026-04-18T08:00:00Z",
+        "districtId": "all"
+    },
+    {
+        "id": "p2",
+        "name": "Nhà hàng Phố Cu",
+        "type": "food",
+        "categoryName": "Ăn gì",
+        "shortDescription": "Không gian cổ điển, món Việt truyền thống.",
+        "description": "Nhà hàng Phố Cu nổi bật với các món dân dã và không gian gợi nhớ Phố Hiến xưa.",
+        "address": "18 Nguyễn Trãi, TP Hưng Yên",
+        "phone": "0221377999",
+        "openingHours": "09:00 - 21:30",
+        "latitude": 20.6502,
+        "longitude": 106.0535,
+        "thumbnailUrl": "https://images.unsplash.com/photo-1514933651103-005eec06c04b",
+        "imageUrls": [
+            "https://images.unsplash.com/photo-1514933651103-005eec06c04b"
+        ],
+        "districtName": "TP Hưng Yên",
+        "isFeatured": false,
+        "updatedAt": "2026-04-12T08:00:00Z",
+        "districtId": "all"
+    },
+    {
+        "id": "p3",
+        "name": "Đền Dạ Trạch",
+        "type": "destination",
+        "categoryName": "Đi đâu",
+        "shortDescription": "Di tích gắn với truyền thuyết Chử Đồng Tử.",
+        "description": "Đền Dạ Trạch là điểm đến văn hóa - tâm linh nổi tiếng, thu hút đông đảo du khách trong mùa lễ hội.",
+        "address": "Xã Dạ Trạch, Khoái Châu, Hưng Yên",
+        "phone": "",
+        "openingHours": "06:30 - 18:00",
+        "latitude": 20.832,
+        "longitude": 105.958,
+        "thumbnailUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+        "imageUrls": [
+            "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+            "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05"
+        ],
+        "districtName": "Khoái Châu",
+        "isFeatured": true,
+        "updatedAt": "2026-04-10T08:00:00Z",
+        "districtId": "khoai_chau"
+    },
+    {
+        "id": "p4",
+        "name": "Khách sạn Phố Hiến Riverside",
+        "type": "stay",
+        "categoryName": "Ở đâu",
+        "shortDescription": "Lưu trú ven sông với tầm nhìn thoáng.",
+        "description": "Khách sạn có phòng tiêu chuẩn và cao cấp, phù hợp khách công tác và du lịch cuối tuần.",
+        "address": "Đường Bãi Sậy, TP Hưng Yên",
+        "phone": "0221368686",
+        "openingHours": "24/7",
+        "latitude": 20.6451,
+        "longitude": 106.0572,
+        "thumbnailUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "imageUrls": [
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+        ],
+        "districtName": "TP Hưng Yên",
+        "isFeatured": false,
+        "updatedAt": "2026-04-08T08:00:00Z",
+        "districtId": "all"
+    },
+    {
+        "id": "p5",
+        "name": "Bến xe Hưng Yên",
+        "type": "transport",
+        "categoryName": "Di chuyển",
+        "shortDescription": "Điểm trung chuyển chính trong tỉnh.",
+        "description": "Bến xe phục vụ tuyến nội tỉnh và liên tỉnh, thuận tiện kết nối Hà Nội - Hưng Yên.",
+        "address": "Quốc lộ 39A, TP Hưng Yên",
+        "phone": "0221356999",
+        "openingHours": "05:00 - 20:30",
+        "latitude": 20.6409,
+        "longitude": 106.0602,
+        "thumbnailUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957",
+        "imageUrls": [
+            "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957"
+        ],
+        "districtName": "TP Hưng Yên",
+        "isFeatured": false,
+        "updatedAt": "2026-04-11T08:00:00Z",
+        "districtId": "all"
+    },
+    {
+        "id": "p6",
+        "name": "Làng hoa Văn Giang",
+        "type": "destination",
+        "categoryName": "Đi đâu",
+        "shortDescription": "Điểm check-in với nhiều mùa hoa đẹp.",
+        "description": "Làng hoa Văn Giang có nhiều khu vườn mở cửa đón khách chụp ảnh và trải nghiệm nông nghiệp.",
+        "address": "Huyện Văn Giang, Hưng Yên",
+        "phone": "",
+        "openingHours": "07:00 - 18:00",
+        "latitude": 20.943,
+        "longitude": 105.929,
+        "thumbnailUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946",
+        "imageUrls": [
+            "https://images.unsplash.com/photo-1490750967868-88aa4486c946"
+        ],
+        "districtName": "Văn Giang",
+        "isFeatured": true,
+        "updatedAt": "2026-04-09T08:00:00Z",
+        "districtId": "all"
+    }
+]
